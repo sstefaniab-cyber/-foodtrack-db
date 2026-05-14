@@ -1,0 +1,5 @@
+CREATE DATABASE FoodTruckDB;
+GO
+
+USE FoodTruckDB;
+GO
